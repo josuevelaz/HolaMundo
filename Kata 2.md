@@ -11,7 +11,7 @@ Crea un entorno virtual mediante *venv*
 
 Ahora tienes un directorio (folder) *env* creado en tu terminal.
 
-<image src="imagenes/Imagen 1.jpg">
+<image src="https://github.com/josuevelaz/Katas-Launch-X/blob/josuevelaz-patch-1/Imagenes/Imagen%201.JPG">
 
 - Ejecuta el comando para activar el entorno virtual: *__source env/bin/activate__*
 
