@@ -94,7 +94,7 @@ Vamos a usar el ejemplo de navegador a fin de crear código que abra archivos de
 ...
 Couldn't find the config.txt file!
 ```
-<image src="Imagenes/Diapositiva3.jpg">
+<image src="Imagenes/https://github.com/josuevelaz/Katas-Launch-X/blob/main/M%C3%B3dulo%2010%20-%20Manejo%20de%20errores/Imagenes/Diapositiva2.JPG">
 
 Después de la palabra clave `try`, agregamos código que tenga la posibilidad de producir una excepción. A continuación, agregamos la palabra clave `except` junto con la posible excepción, seguida de cualquier código que deba ejecutarse cuando se produce esa condición. Puesto que config.txt no existe en el sistema, Python imprime que el archivo de configuración no está ahí. El bloque `try` y `except`, junto con un mensaje útil, evita un seguimiento y sigue informando al usuario sobre el problema.
 
